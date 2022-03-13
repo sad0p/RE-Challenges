@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
  
-# Solution for https://crackmes.one/crackme/5edb0b8533c5d449d91ae73b (Towel's Armageddon)
+# Solution for https://crackmes.one/crackme/5edb0b8533c5d449d91ae73b (Towel's Armageddon -- for ARM32)
 # Requires z3 SMT solver
 # install z3 with: pip install z3-solver
 
