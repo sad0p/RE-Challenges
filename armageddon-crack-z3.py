@@ -4,6 +4,21 @@
 # Requires z3 SMT solver
 # install z3 with: pip install z3-solver
 
+#$ ./armageddon-crack-z3.py
+#<start>UMDCTF-{ARM_1s_s(_SATisfying_7y8fdlsjebnu</end>
+#length: 41
+#./armageddon   
+#---------------
+#-=UMDCTF 2019=-
+#---------------
+#[+] Enter Code: UMDCTF-{ARM_1s_s(_SATisfying_7y8fdlsjebnu
+#
+#[+] Code validated successfully!
+#
+#$ 
+
+
+
 from z3 import *
  
 def main():
